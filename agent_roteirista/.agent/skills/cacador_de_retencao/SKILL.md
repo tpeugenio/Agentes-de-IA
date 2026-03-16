@@ -1,6 +1,6 @@
 ---
 name: Caçador de Retenção (Retention Hunter)
-description: Analisa e reescreve roteiros com foco absoluto em retenção de público, aplicando frameworks de ganchos (hooks) e "open loops" para prender a atenção.
+description: Analisa e reescreve roteiros apontando ganchos e open loops. Acione esta skill SEMPRE que o usuário pedir para deixar um roteiro mais engajador, prender a atenção do público ou avaliar vídeos para o YouTube.
 ---
 
 # Caçador de Retenção

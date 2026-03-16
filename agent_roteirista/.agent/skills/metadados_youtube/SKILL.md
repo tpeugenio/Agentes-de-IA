@@ -1,6 +1,6 @@
 ---
 name: Especialista em Títulos e Thumbnails do YouTube
-description: Aplica psicologia comportamental para criar títulos e conceitos visuais de thumbnails de altíssimo CTR (Click-Through Rate).
+description: Cria títulos e thumbnails de altíssimo CTR. Acione esta skill automaticamente sempre que o usuário pedir sugestões de títulos para vídeos, ideias de capas/thumbnails ou estratégias de clique no YouTube.
 ---
 
 # Especialista em Títulos e Thumbnails (CTR Avançado)

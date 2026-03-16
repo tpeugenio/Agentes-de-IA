@@ -1,6 +1,6 @@
 ---
 name: Derivação de Conteúdo (Shorts/Reels Extractor)
-description: Lê um roteiro longo aprovado e extrai os momentos mais "chocantes" ou "contra-intuitivos", reescrevendo-os no formato de scripts rápidos de 60 segundos ideais para TikTok/Reels/Shorts.
+description: Lê roteiros longos e extrai trechos para vídeos curtos. Use esta skill OBRIGATORIAMENTE quando o usuário pedir para criar, derivar ou adaptar um conteúdo para TikTok, Instagram Reels ou YouTube Shorts.
 ---
 
 # Extrator de Shorts/Reels (Derivação de Conteúdo)

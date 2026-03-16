@@ -1,6 +1,6 @@
 ---
 name: Formatador de Roteiro Visual (Script Formatter)
-description: Padroniza a formatação do roteiro e dos shorts, aplicando emojis, blocos de citação para falas, anotações de edição em instrução literal e divisores visuais claros.
+description: Padroniza a formatação visual de roteiros. Utilize esta skill sempre que o usuário pedir para formatar, limpar o layout, preparar para teleprompter ou finalizar a estrutura visual de um script.
 ---
 
 # Formatador de Roteiro Visual

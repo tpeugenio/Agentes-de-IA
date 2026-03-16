@@ -1,6 +1,6 @@
 ---
 name: Validação Científica (Fact-Checker)
-description: Examina afirmações em um roteiro e realiza verificação de fatos, buscando base científica rigorosa para garantir autoridade e precisão.
+description: Realiza verificação de fatos e rigor científico. Use esta skill sem exceção quando lidar com conteúdos informativos/científicos ou quando o usuário pedir para revisar e validar as informações de um roteiro.
 ---
 
 # Validador Científico (Fact-Checker)

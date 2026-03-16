@@ -1,0 +1,13 @@
+{
+  "skill_name": "gerador_de_teleprompter",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Gere o teleprompter do roteiro roteiro-tdah-ansiedade.md",
+      "expected_output": "Um arquivo roteiro-tdah-ansiedade-teleprompter.txt contendo apenas as falas do apresentador, com marcações de [PAUSA] e quebras de linha frequentes. Sem formatação markdown, sem marcações de câmera ou texto na tela.",
+      "files": [
+        "roteiro-tdah-ansiedade.md"
+      ]
+    }
+  ]
+}

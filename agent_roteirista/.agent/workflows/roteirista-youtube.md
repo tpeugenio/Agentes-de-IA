@@ -148,6 +148,5 @@ O arquivo gerado deve conter todo o conteúdo estritamente na seguinte ordem, co
 
 1. **# [Roteiro Longo]** — O roteiro completo com as referências, validação científica e sugestões de Títulos/Thumbnails.
 2. **# [Shorts]** — Os 3 roteiros curtos extraídos pela Derivação de Conteúdo.
-3. **# [Tópicos]** — Os tópicos principais do roteiro longo para uso como teleprompter.
 
 Após gerar o artifact, envie uma mensagem curta no chat informando que o roteiro está pronto para revisão e salvamento.

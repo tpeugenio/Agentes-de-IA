@@ -122,9 +122,9 @@ Usando os critérios da skill `Validação Científica` (validador_cientifico), 
 
 ⸻
 
-7. Títulos e Thumbnails
+7. Títulos, Thumbnails e Descrição
 
-Ative a skill `Especialista em Títulos e Thumbnails do YouTube` (metadados_youtube) para avaliar o roteiro criado. Siga fielmente as regras da skill, gerando 5 opções de títulos magnéticos e 2 direcionamentos visuais de thumbnail para cada opção.
+Ative a skill `Especialista em Títulos, Thumbnails e Descrições do YouTube` (metadados_youtube) para avaliar o roteiro criado. Siga fielmente as regras da skill, gerando 5 opções de títulos magnéticos, 2 direcionamentos visuais de thumbnail para cada opção, além de uma descrição completa com 3 hashtags no final.
 
 ⸻
 
@@ -146,7 +146,7 @@ Gere o resultado final formatado como um artifact (usando a ferramenta `write_to
 
 O arquivo gerado deve conter todo o conteúdo estritamente na seguinte ordem, com separadores visuais claros entre as seções:
 
-1. **# [Roteiro Longo]** — O roteiro completo com as referências, validação científica e sugestões de Títulos/Thumbnails.
+1. **# [Roteiro Longo]** — O roteiro completo com as referências, validação científica e sugestões de Títulos/Thumbnails/Descrição.
 2. **# [Shorts]** — Os 3 roteiros curtos extraídos pela Derivação de Conteúdo.
 
 Após gerar o artifact, envie uma mensagem curta no chat informando que o roteiro está pronto para revisão e salvamento.
